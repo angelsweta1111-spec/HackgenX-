@@ -1,4 +1,4 @@
-# 🏙️ Smart City AI Complaint Management System
+# 🏙️  AI-Powered Smart Urban System
 
 An AI-powered Smart Grievance Management Platform that enables citizens to report waste management issue with image and location support while helping municipal authorities intelligently prioritize complaints using clustering, heatmaps, and AI validation.
 
